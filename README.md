@@ -98,7 +98,7 @@ yarn build
 
 The build artifacts will be stored in the `dist/` directory.
 
-## 🌐 API Integration
+## API Integration
 
 CineSynthesis uses two primary APIs:
 
@@ -112,7 +112,7 @@ CineSynthesis uses two primary APIs:
 - Used for aggregated ratings from IMDb, Rotten Tomatoes, and Metacritic
 - Documentation: [OMDb API Docs](http://www.omdbapi.com/)
 
-## 🧪 Testing
+## Testing
 
 ```bash
 npm run test
@@ -120,7 +120,7 @@ npm run test
 yarn test
 ```
 
-## 📱 Responsive Design
+## Responsive Design
 
 CineSynthesis is designed to work seamlessly across all device sizes:
 
@@ -128,11 +128,11 @@ CineSynthesis is designed to work seamlessly across all device sizes:
 - **Tablet**: Adjusted grid layouts and component sizing
 - **Desktop**: Full-featured experience with enhanced visual elements
 
-## 🌙 Dark Mode
+## Dark Mode
 
 The application includes a toggle for switching between light and dark themes. User preference is saved to local storage for persistence across sessions.
 
-## ♿ Accessibility
+## Accessibility
 
 CineSynthesis follows WCAG 2.1 guidelines to ensure accessibility:
 
@@ -142,7 +142,7 @@ CineSynthesis follows WCAG 2.1 guidelines to ensure accessibility:
 - Sufficient color contrast
 - Focus management
 
-## 🔧 Future Improvements
+## Future Improvements
 
 - User authentication and personalized recommendations
 - User reviews and ratings
@@ -151,26 +151,15 @@ CineSynthesis follows WCAG 2.1 guidelines to ensure accessibility:
 - Performance optimizations for image loading
 - Integration with streaming service availability data
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👏 Acknowledgements
+## Acknowledgements
 
 - [The Movie Database (TMDB)](https://www.themoviedb.org/) for their comprehensive movie API
 - [OMDb API](http://www.omdbapi.com/) for providing aggregated movie ratings
 - [Material UI](https://mui.com/) for the component library
 - [React](https://reactjs.org/) and the entire React ecosystem
-- All the movie fans who inspired this project
 
-## 📞 Contact
-
-For questions, feedback, or collaboration opportunities, please reach out:
-
-- **Email**: your.email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-
----
-
-Made with ❤️ by [Your Name]
+Made with ❤️ by Anay
