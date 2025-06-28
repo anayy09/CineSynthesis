@@ -4,8 +4,6 @@
 
 CineSynthesis is a sophisticated React-based web application that aggregates movie ratings from IMDb, Rotten Tomatoes, and Metacritic, presenting them alongside a proprietary **CineScore™** algorithm. Built with modern web technologies, it provides movie enthusiasts with a comprehensive, unified view of film ratings and detailed information.
 
-## Live Demo
-
 [View Live Demo](https://cinesynthesis.vercel.app)
 
 ## ✨ Features
